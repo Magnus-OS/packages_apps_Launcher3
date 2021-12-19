@@ -168,6 +168,60 @@ public class SettingsActivity extends FragmentActivity
          * will remove that preference from the list.
          */
         protected boolean initPreference(Preference preference) {
+            switch (preference.getKey()) {
+                case NOTIFICATION_DOTS_PREFERENCE_KEY:
+                    if (!Utilities.ATLEAST_OREO ||
+                            !getResources().getBoolean(R.bool.notification_dots_enabled)) {
+                        return false;
+                    }
+
+                    // Listen to system notification dot settings while this UI is active.
+                    mNotificationDotsObserver = newNotificationSettingsObserver(
+                            getActivity(), (NotificationDotsPreference) preference);
+                    mNotificationDotsObserver.register();
+                    // Also listen if notification permission changes
+                    mNotificationDotsObserver.getResolver().registerContentObserver(
+                            Settings.Secure.getUriFor(NOTIFICATION_ENABLED_LISTENERS), false,
+                            mNotificationDotsObserver);
+                    mNotificationDotsObserver.dispatchOnChange();
+                    return true;
+
+                case ADD_ICON_PREFERENCE_KEY:
+                    return Utilities.ATLEAST_OREO;
+
+                case ALLOW_ROTATION_PREFERENCE_KEY:
+                    // Initialize the UI once
+                    preference.setDefaultValue(getAllowRotationDefaultValue() ||
+                            getResources().getBoolean(R.bool.allow_rotation));
+                    return true;
+
+                case FLAGS_PREFERENCE_KEY:
+                    // Only show flag toggler UI if this build variant implements that.
+                    return FeatureFlags.showFlagTogglerUi(getContext());
+
+                case DEVELOPER_OPTIONS_KEY:
+                    // Show if plugins are enabled or flag UI is enabled.
+                    return FeatureFlags.showFlagTogglerUi(getContext()) ||
+                            PluginManagerWrapper.hasPlugins(getContext());
+
+                case KEY_MINUS_ONE:
+                    return LineageUtils.isPackageEnabled(getActivity(), SEARCH_PACKAGE);
+
+                case KEY_TRUST_APPS:
+                    preference.setOnPreferenceClickListener(p -> {
+                        LineageUtils.showLockScreen(getActivity(),
+                                getString(R.string.trust_apps_manager_name), () -> {
+                            Intent intent = new Intent(getActivity(), TrustAppsActivity.class);
+                            startActivity(intent);
+                        });
+                        return true;
+                    });
+                    return true;
+                case KEY_ICON_PACK:
+                    setupIconPackPreference(preference);
+                    return true;
+            }
+
             return true;
         }
 
