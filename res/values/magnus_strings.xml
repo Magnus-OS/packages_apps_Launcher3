@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--  Copyright (C) 2020-2021 crDroid Android Project
+<!--  Copyright (C) 2020-2022 crDroid Android Project
+      Copyright (C) 2022 MagnusOS 
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -38,7 +39,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="abbrev_wday_month_day_no_year" translatable="false">EEEEMMMd</string>
 
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Feels Like Spring!</string>
+    <string name="quick_event_rom_intro_welcome">Greatness Redefined!</string>
     <string-array translatable="false" name="welcome_message_variants">
         <item>Have a great day</item>
         <item>Tap here to begin</item>
@@ -108,26 +109,27 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <item>It\'s a bit late now</item>
         <item>I saw a ghost under the bed x_x</item>
         <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
 
     <string-array name="quickspace_psa_random">
         <item>Ignorance is Bliss</item>
         <item>Is it time to flash another update already?</item>
-        <item>Hyped about Android 12?</item>
+        <item>Hyped about Android 13?</item>
         <item>Oh hey, what\'s up?</item>
         <item>Focus on your tasks</item>
         <item>How many screenshots do you take?</item>
         <item>She will not say yes xD</item>
         <item>Spread love not havoc :P</item>
         <item>Have fun!</item>
-        <item>Time for some good music</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
         <item>You need Project Sakura Premium</item>
         <item>Remember the Lineage of the Unicorn</item>
         <item>Enjoy Xtended battery life</item>
         <item>Starting from the ground zero</item>
-        <item>Using Project Sakura? Damn you are superior</item>
-        <item>Stay Home, Stay Safe</item>
+        <item>Using MagnusOS? Damn you are superior</item>
+        <item>Drink Water, Stay Hydrated</item>
         <item>Do something nice today</item>
         <item>Hello there its a nice day, isn\'t it?</item>
         <item>How is everything going?</item>
@@ -136,13 +138,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <item>No festival for Derps - only perfection!</item>
         <item>One of the buildbot\'s best picks</item>
         <item>Sanity for your Paranoia</item>
-        <item>Try Ice Cold desserts</item>
+        <item>I hope sakura gets back!</item>
         <item>What a lovely experience, isn\'t it?</item>
         <item>Evolution is a myth, right?</item>
         <item>You are what you flash, don\'t be Potato</item>
         <item>What\'s on your mind?</item>
         <item>Playing that stupid game again?</item>
-        <item>rm -rf \/</item>
+        <item>R.</item>
     </string-array>
 
     <!-- Recents screen, close app -->
@@ -178,8 +180,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="dock_search_summary">Show at the bottom of your Home screen</string>
 
     <!-- About info -->
-    <string name="about_trebuchet_title" translatable="false">Trebuchet+</string>
-    <string name="about_trebuchet_summary">Trebuchet+ is a customized Trebuchet launcher based on AOSP\'s Launcher3</string>
+    <string name="about_trebuchet_title" translatable="false">HeliumX</string>
+    <string name="about_trebuchet_summary">HeliumX is a customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
     <string name="about_thanks_cat">Special thanks to</string>
     <string name="about">About</string>
     <string name="about_summary">Info about the launcher</string>

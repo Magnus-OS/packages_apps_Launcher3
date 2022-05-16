@@ -17,7 +17,7 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Lòinsear3</string>
+    <string name="app_name">HeliumX</string>
     <string name="work_folder_name">Obair</string>
     <string name="activity_not_found">Cha deach an aplacaid a stàladh.</string>
     <string name="activity_not_available">Chan eil an aplacaid ri fhaighinn</string>
