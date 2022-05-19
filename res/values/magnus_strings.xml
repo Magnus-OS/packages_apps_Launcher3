@@ -185,7 +185,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="about_thanks_cat">Special thanks to</string>
     <string name="about">About</string>
     <string name="about_summary">Info about the launcher</string>
-    <string name="about_app_version">Version</string>
+    <string name="about_app_version">Trebuchet+ Version</string>
     <string name="about_app_version_summary">1.R</string>
-
+    <string name="about_helium_version">HeliumX Version</string>
+    <string name="about_helium_version_summary">1.1HX</string>
 </resources>
