@@ -112,7 +112,7 @@ public class QuickEventsController {
         mIsQuickEvent = true;
         mEventTitle = mContext.getResources().getString(R.string.quick_event_rom_intro_welcome);
         mEventTitleSub = mContext.getResources().getStringArray(R.array.welcome_message_variants)[getLuckyNumber(0,6)];
-        mEventSubIcon = R.drawable.ic_quickspace_sakura;
+        mEventSubIcon = R.drawable.ic_quickspace_magnus;
 
         mEventTitleSubAction = new OnClickListener() {
             @Override
@@ -228,7 +228,7 @@ public class QuickEventsController {
                 if (getLuckyNumber(13) == 7) {
                     psaLength = mPSARandomStr.length - 1;
                     mEventTitleSub = mPSARandomStr[getLuckyNumber(0, psaLength)];
-                    mEventSubIcon = R.drawable.ic_quickspace_sakura;
+                    mEventSubIcon = R.drawable.ic_quickspace_magnus;
                     mIsQuickEvent = true;
                 } else {
                     mIsQuickEvent = false;
