@@ -146,7 +146,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="dock_search_title">Панель пошуку Google</string>
     <string name="dock_search_summary">Показувати внизу домашнього екрану</string>
     <!-- About info -->
-    <string name="about_trebuchet_summary">Trebuchet+ - налаштований додаток Trebuchet лаунчер на основі AOSP Launcher3</string>
+    <string name="about_trebuchet_summary">HeliumX is a customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
     <string name="about_thanks_cat">Особлива подяка</string>
     <string name="about">Про програму</string>
     <string name="about_summary">Інформація про лаунчер</string>

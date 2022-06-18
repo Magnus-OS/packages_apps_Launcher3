@@ -52,72 +52,71 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="quickspace_psa_summary">Đôi khi hiển thị một số thông điệp tốt đẹp trên Xem nhanh.</string>
     <string-array name="quickspace_psa_morning">
         <item>Ohayo Gozaimasu!</item>
-        <item>Chào buổi sáng, đến giờ quẩy rồi!</item>
-        <item>Bạn không nên bỏ qua các bài tập.</item>
-        <item>Chúc bạn một ngày tốt lành!</item>
-        <item>Một giấc ngủ ngắn 5 phút thì sao?</item>
-        <item>Đó là một cách để thức dậy.</item>
-        <item>Bạn nên thay đổi âm thanh báo thức của mình.</item>
-        <item>Có vẻ như đó là một ngày đẹp trời, phải không?</item>
-        <item>Hãy lấy bánh mì này.</item>
-        <item>Kiểm tra thời tiết đề phòng người bạn thích cần một chiếc ô.</item>
-        <item>Cảm thấy hơi buồn ngủ</item>
-        <item>Bạn đã thử nhìn ra ngoài chưa?</item>
-        <item>Hãy hoàn thành nó.</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Chúc bạn ngủ ngon!</item>
-        <item>Ngủ ngon nhé!</item>
-        <item>Hẹn gặp bạn vào ngày mai!</item>
-        <item>Chúc bạn có những giấc mơ đẹp!</item>
-        <item>Đừng ngủ quá muộn nhé</item>
-        <item>Có một giấc ngủ ngon</item>
-        <item>Có được một giấc ngủ</item>
-        <item>Đến giờ giải lao rồi</item>
-        <item>Tận hưởng buổi tối! Một mình...</item>
-        <item>Đã đến lúc sạc pin!</item>
-        <item>Mọi chuyện sẽ tốt đẹp vào ngày mai vì có tôi ở đây!</item>
-        <item>Chuẩn bị sẵn sàng cho ngày mai</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Ừm... chúc ngủ ngon?</item>
-        <item>Bây giờ hơi muộn</item>
-        <item>Tôi nhìn thấy một con ma dưới giường x_x</item>
-        <item>Bạn có năng suất hơn vào thời điểm này?</item>
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Điếc không sợ súng</item>
-        <item>Đã đến lúc flash bản cập nhật khác chưa?</item>
-        <item>Thông tin về Android 10?</item>
-        <item>Oh này, có chuyện gì thế?</item>
-        <item>Hãy tập chung vào nhiệm vụ</item>
-        <item>Bạn chụp bao nhiêu ảnh chụp màn hình?</item>
-        <item>Cô ấy sẽ không nói có xD</item>
-        <item>Lan tỏa tình yêu thương không tàn phá</item>
-        <item>Chúc vui vẻ!</item>
-        <item>Khoảng thời gian cho một số bản nhạc hay</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C CÁI ĐẦU</item>
-        <item>Bạn cần Project Sakura Premium</item>
-        <item>Hãy nhớ Lineage của Unicorn</item>
-        <item>Tận hưởng thời lượng pin dài hơn</item>
-        <item>Bắt đầu từ con số 0</item>
-        <item>Sử dụng Project Sakura? Chết tiệt bạn là cấp trên</item>
-        <item>Ở nhà, Giữ an toàn</item>
-        <item>Làm điều gì đó tốt đẹp hôm nay</item>
-        <item>Xin chào, một ngày tốt lành, phải không?</item>
-        <item>Mọi chuyện thế nào rồi?</item>
-        <item>Không ảo tưởng, chào mừng bạn đến với thực tế!</item>
-        <item>Cảm ơn sự giúp đỡ của bạn</item>
-        <item>Không có lễ hội cho Derps - chỉ có sự hoàn hảo!</item>
-        <item>Một trong những lựa chọn tốt nhất của buildbot</item>
-        <item>Hãy tỉnh táo chứ đừng kiêu ngạo</item>
-        <item>Thử món tráng miệng đá lạnh</item>
-        <item>Thật là một trải nghiệm tuyệt vời, phải không?</item>
-        <item>Tiến hóa là một huyền thoại, phải không?</item>
-        <item>Bạn là thứ bạn nghĩ sượt qua, đừng là củ khoai tây</item>
-        <item>Bạn đang nghĩ gì?</item>
-        <item>Chơi trò ngu ngốc đó một lần nữa?</item>
-        <item>rm -rf \/</item>
+        <item>Ignorance is Bliss</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>She will not say yes xD</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
+        <item>Do something nice today</item>
+        <item>Hello there its a nice day, isn\'t it?</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>R.</item>
     </string-array>
     <!-- Recents screen, close app -->
     <string name="recents_close_app">Đóng ứng dụng</string>
@@ -146,10 +145,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="dock_search_title">Thanh tìm kiếm Google</string>
     <string name="dock_search_summary">Hiển thị ở đầu Màn hình chính của bạn</string>
     <!-- About info -->
-    <string name="about_trebuchet_summary">Trebuchet + là một trình khởi chạy Trebuchet được tùy chỉnh dựa trên Launcher3 của AOSP</string>
+    <string name="about_trebuchet_summary">HeliumX is a customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
     <string name="about_thanks_cat">Trân trọng cảm ơn</string>
     <string name="about">Thông tin</string>
     <string name="about_summary">Thông tin về giao diện</string>
-    <string name="about_app_version">Phiên bản</string>
+    <string name="about_app_version">Trebuchet+</string>
     <string name="about_app_version_summary">1.R</string>
+    <string name="about_helium_version">HeliumX</string>
+    <string name="about_helium_version_summary">1.0</string>
 </resources>

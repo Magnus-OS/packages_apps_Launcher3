@@ -52,72 +52,71 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="quickspace_psa_summary">Näytä väliajoin jokin kiva viesti pikanäytössä.</string>
     <string-array name="quickspace_psa_morning">
         <item>Ohayo Gozaimasu!</item>
-        <item>Hyvää huomenta, aika rokata!</item>
-        <item>Harjoituksia ei kannata jättää väliin.</item>
-        <item>Hauskaa päivän jatkoa!</item>
-        <item>Miten olisi pienet 5 minuutin nokoset?</item>
-        <item>Se on yksi tapa herätä.</item>
-        <item>Sinun pitäisi muuttaa hälytysääniäsi.</item>
-        <item>Näyttää siltä, että on kaunis päivä, eikö niin?</item>
-        <item>Jatketaanpa hommia.</item>
-        <item>Tarkista sää siltä varalta, että ihastuksesi tarvitsee sateenvarjon.</item>
-        <item>Tuntuu vielä vähän uniselta</item>
-        <item>Oletko katsonut vielä ulos?</item>
-        <item>Tehdään tämä valmiiksi.</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Hyvää yötä!</item>
-        <item>Nuku hyvin!</item>
-        <item>Nähdään huomenna!</item>
-        <item>Kauniita unia!</item>
-        <item>Älä valvo liian myöhään</item>
-        <item>Nuku hyvin</item>
-        <item>Mene nukkumaan</item>
-        <item>Aika rentoutua</item>
-        <item>Nauti yöstä! Yksin...</item>
-        <item>Aika ladata akut!</item>
-        <item>Huomenna on kaikki hyvin, koska olen täällä!</item>
-        <item>Palaudu huomiseksi</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Hmm... hyvää yötä?</item>
-        <item>Nyt on jo vähän myöhä</item>
-        <item>Näin haamun sängyn alla x_x</item>
-        <item>Oletko tuottavampi tällä hetkellä?</item>
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Tietämättömyys on autuutta</item>
-        <item>Onko jo aika asentaa toinen päivitys?</item>
-        <item>Oletko kiinnostunut Android 12:sta?</item>
-        <item>Ai hei, mitä kuuluu?</item>
-        <item>Keskity tehtäviisi</item>
-        <item>Kuinka monta kuvakaappausta otat?</item>
-        <item>Hän ei sano kyllä xD</item>
-        <item>Levitä rakkautta, älä tuhoa :P</item>
-        <item>Pidä hauskaa!</item>
-        <item>Aika kuunnella hyvää musiikkia</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>Tarvitset Project Sakura Premiumin</item>
-        <item>Muista yksisarvisen linja</item>
-        <item>Nauti pidennetystä akun kestosta</item>
-        <item>Alkaen nollasta</item>
-        <item>Käytätkö Project Sakuraa? Pahus, olet ylivoimainen</item>
-        <item>Pysy kotona, pysy turvassa</item>
-        <item>Tee jotain mukavaa tänään</item>
-        <item>Hei, on mukava päivä, eikö olekin?</item>
-        <item>Miten kaikki sujuu?</item>
-        <item>Ei illuusioita, tervetuloa todellisuuteen!</item>
-        <item>Kiitos tuestasi</item>
-        <item>Ei juhlaa urpoille - vain täydellisyys!</item>
-        <item>Yksi buildbotin parhaista valinnoista</item>
-        <item>Järki vainoharhaisuudellesi</item>
-        <item>Kokeile Ice Cold -jälkiruokia</item>
-        <item>Mikä ihana kokemus, eikö olekin?</item>
-        <item>Evoluutio on myytti, eikö?</item>
-        <item>Olet mitä asennat, älä ole peruna</item>
-        <item>Mitä sinulla on mielessäsi?</item>
-        <item>Pelaatko taas sitä typerää peliä?</item>
-        <item>rm -rf \/</item>
+        <item>Ignorance is Bliss</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>She will not say yes xD</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
+        <item>Do something nice today</item>
+        <item>Hello there its a nice day, isn\'t it?</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>R.</item>
     </string-array>
     <!-- Recents screen, close app -->
     <string name="recents_close_app">Sulje sovellus</string>
@@ -146,10 +145,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="dock_search_title">Google-hakupalkki</string>
     <string name="dock_search_summary">Näytä aloitusnäytön alaosassa</string>
     <!-- About info -->
-    <string name="about_trebuchet_summary">Trebuchet+ on räätälöity Trebuchet-käynnistin, joka perustuu AOSP:n Launcher3:een</string>
+    <string name="about_trebuchet_summary">HeliumX is a customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
     <string name="about_thanks_cat">Erityiskiitokset</string>
     <string name="about">Tietoja</string>
     <string name="about_summary">Tietoja käynnistimestä</string>
-    <string name="about_app_version">Versio</string>
+    <string name="about_app_version">Trebuchet+ Versio</string>
     <string name="about_app_version_summary">1.R</string>
+    <string name="about_helium_version">HeliumX Versio</string>
+    <string name="about_helium_version_summary">1.0</string>
 </resources>

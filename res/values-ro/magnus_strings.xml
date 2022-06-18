@@ -51,73 +51,72 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="quickspace_psa_title">Arată un mesaj aleatoriu</string>
     <string name="quickspace_psa_summary">Arată unele mesaje frumoase uneori pe Privire.</string>
     <string-array name="quickspace_psa_morning">
-        <item>Bună dimineața!</item>
-        <item>Bună dimineața, timpul de rock!</item>
-        <item>Ce zi minunată!</item>
-        <item>O zi bună!</item>
-        <item>Ce zici de un pui de somn mic de 5 minute?</item>
-        <item>Acesta este un mod de a te trezi.</item>
-        <item>Ar trebui să-ți schimbi sunetele de alarmă.</item>
-        <item>Se pare că este o zi frumoasă, nu-i așa?</item>
-        <item>Hai să obținem această pâine.</item>
-        <item>Verificați vremea pentru orice eventualitate</item>
-        <item>Te simţi somnoros deja</item>
-        <item>Te-ai uitat afară?</item>
-        <item>Să terminăm asta.</item>
+        <item>Ohayo Gozaimasu!</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Noapte bună!</item>
-        <item>Somn ușor!</item>
-        <item>Pe mâine!</item>
-        <item>Vise plăcute!</item>
-        <item>Nu sta treaz prea mult</item>
-        <item>Somn ușor</item>
-        <item>Odihnește-te</item>
-        <item>Timpul pentru relaxare</item>
-        <item>Bucură-te de noapte!</item>
-        <item>E timpul să încărcați bateriile!</item>
-        <item>Mâine ar putea fi o zi minunată</item>
-        <item>Pregătește-ți oasele pentru mâine</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Um... noapte bună?</item>
-        <item>E cam târziu acum</item>
-        <item>Ar trebui să vă stabiliți programul de somn</item>
-        <item>Ești mai productiv în acest moment?</item>
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Ignoranța este Bliss</item>
-        <item>Este timpul să instalezi o nouă actualizare deja?</item>
-        <item>Entuziasmat pentru Android 12?</item>
-        <item>Oh, hei, ce se întâmplă?</item>
-        <item>Concentrează-te pe sarcinile tale</item>
-        <item>Câte capturi de ecran faceți?</item>
-        <item>Fii un chad ca Proiectul Sakura</item>
-        <item>Răspândește iubire nu haos :P</item>
-        <item>Distracţie plăcută!</item>
-        <item>Timpul pentru niște muzica bună</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>Ai nevoie de Proiectul Sakura Premium</item>
-        <item>Amintiți-vă de Lineage of the Unicorn</item>
-        <item>Bucură-te de durata bateriei Xtended</item>
-        <item>Pornind de la zero</item>
-        <item>Te iubim 3000</item>
-        <item>Stai acasă, rămâi în siguranță</item>
-        <item>Fă ceva drăguț astăzi</item>
-        <item>Bună, e o zi frumoasă, nu-i așa?</item>
-        <item>Cum merge totul?</item>
-        <item>Nicio iluzie, bun venit în realitate!</item>
-        <item>Vă mulțumim pentru sprijinul acordat</item>
-        <item>Niciun festival pentru Derps - doar perfecţiune!</item>
-        <item>Una dintre cele mai bune alegeri ale buildbot-ului</item>
-        <item>Sanitate pentru Paranoia ta</item>
-        <item>Încearcă deserturile de gheață</item>
-        <item>Ce experiență minunată, nu-i așa?</item>
-        <item>Evoluția e un mit, nu?</item>
-        <item>Ești ceea ce flashuiești, nu fii Cartof</item>
-        <item>La ce te gandesti?</item>
-        <item>Câștigător ....?</item>
-        <item>rm -rf \/</item>
+        <item>Ignorance is Bliss</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>She will not say yes xD</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
+        <item>Do something nice today</item>
+        <item>Hello there its a nice day, isn\'t it?</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>R.</item>
     </string-array>
     <!-- Recents screen, close app -->
     <string name="recents_close_app">Închide aplicația</string>
@@ -146,10 +145,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="dock_search_title">Bara de căutare Google</string>
     <string name="dock_search_summary">Arată în zona de sus a ecranului principal</string>
     <!-- About info -->
-    <string name="about_trebuchet_summary">Trebuchet+ este un lansator Trebuchet personalizat bazat pe lansatorul AOSP3</string>
+    <string name="about_trebuchet_summary">HeliumX is a customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
     <string name="about_thanks_cat">Mulțumiri speciale</string>
     <string name="about">Despre</string>
     <string name="about_summary">Informații despre lansator</string>
-    <string name="about_app_version">Versiune</string>
-    <string name="about_app_version_summary">1,R</string>
+    <string name="about_app_version">Trebuchet+ Versiune</string>
+    <string name="about_app_version_summary">1.R</string>
+    <string name="about_helium_version">HeliumX Versiune</string>
+    <string name="about_helium_version_summary">1.0</string>
 </resources>

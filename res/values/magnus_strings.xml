@@ -124,21 +124,19 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <item>Have fun!</item>
         <item>Eastereggs Incoming</item>
         <item>Did you know? Magnus was first made on mobile for mobile</item>
-        <item>You need Project Sakura Premium</item>
         <item>Remember the Lineage of the Unicorn</item>
         <item>Enjoy Xtended battery life</item>
         <item>Starting from the ground zero</item>
-        <item>Using MagnusOS? Damn you are superior</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
         <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
         <item>Do something nice today</item>
         <item>Hello there its a nice day, isn\'t it?</item>
         <item>How is everything going?</item>
         <item>No illusions, welcome to reality!</item>
         <item>Thank you for your support</item>
         <item>No festival for Derps - only perfection!</item>
-        <item>One of the buildbot\'s best picks</item>
         <item>Sanity for your Paranoia</item>
-        <item>I hope sakura gets back!</item>
         <item>What a lovely experience, isn\'t it?</item>
         <item>Evolution is a myth, right?</item>
         <item>You are what you flash, don\'t be Potato</item>
@@ -188,5 +186,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="about_app_version">Trebuchet+ Version</string>
     <string name="about_app_version_summary">1.R</string>
     <string name="about_helium_version">HeliumX Version</string>
-    <string name="about_helium_version_summary">1.1HX</string>
+    <string name="about_helium_version_summary">1.0</string>
 </resources>

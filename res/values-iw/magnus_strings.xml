@@ -51,73 +51,72 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="quickspace_psa_title">הצג הודעה אקראית</string>
     <string name="quickspace_psa_summary">הצג לפעמים מספר הודעות נחמדות ביישומון \'בקצרה\'.</string>
     <string-array name="quickspace_psa_morning">
-        <item>בוקר טוב!</item>
-        <item>בוקר טוב, הגיע הזמן לְהִתְנוֹעֵעַ!</item>
-        <item>איזה יום יפה בחוץ!</item>
-        <item>שיהיה לך יום נפלא!</item>
-        <item>מה לגבי שנ\"צ של חמש דקות?</item>
-        <item>זו דרך אחת להתעורר.</item>
-        <item>אתה צריך לשנות את הצליל של השעון המעורר שלך.</item>
-        <item>נראה שזה יום יפה, לא?</item>
-        <item>עוד יום, עוד עשר אגורות.</item>
-        <item>בדוק את מזג האוויר – לכל מקרה</item>
-        <item>מרגיש קצת ישנוני עדיין, אה?</item>
-        <item>הסתכלת כבר החוצה?</item>
-        <item>בוא נעשה את זה.</item>
+        <item>Ohayo Gozaimasu!</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>לילה טוב!</item>
-        <item>שינה טובה!</item>
-        <item>נתראה מחר!</item>
-        <item>חלומות מתוקים!</item>
-        <item>אל תישאר ער עד מאוחר</item>
-        <item>שתהיה לך שינה טובה</item>
-        <item>תישן קצת</item>
-        <item>זמן להירגע</item>
-        <item>תהנה מהלילה!</item>
-        <item>זמן לטעון מצברים!</item>
-        <item>מחר יכול להיות יום נהדר</item>
-        <item>תכין את העצמות שלך למחר</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>אממ...לילה טוב?</item>
-        <item>קצת מאוחר עכשיו</item>
-        <item>אתה צריך לסדר את זמני השינה שלך</item>
-        <item>האם אתה יעיל יותר בשלב זה?</item>
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>בורות היא אושר</item>
-        <item>האם הגיע כבר הזמן להפליש עדכון נוסף?</item>
-        <item>מתרגש מ־Android 12?</item>
-        <item>הו, היי לך, מה נשמע?</item>
-        <item>התמקד במשימות שלך</item>
-        <item>כמה צילומי מסך אתה מצלם?</item>
-        <item>תהיה גבר־על כמו פרויקט Sakura</item>
-        <item>תפיץ אהבה – לא שנאה :)</item>
-        <item>תיהנו!</item>
-        <item>הגיע הזמן לקצת מוזיקה טובה</item>
-        <item>אופק, אתה המלך!</item>
-        <item>אתה צריך להיות חבר פרימיום בפרויקט Sakura</item>
-        <item>זכור מאין הגעת ולאן אתה הולך</item>
-        <item>תיהנה מחיי סוללה מטורפים</item>
-        <item>התחלנו מכלום ושום דבר</item>
-        <item>אוהבים אותך עד השמיים</item>
-        <item>אין כמו בבית</item>
-        <item>תעשו משהו נחמד היום</item>
-        <item>שלום לך, יום נעים היום, לא?</item>
-        <item>איך הכול הולך?</item>
-        <item>בלי אשליות, ברוכים הבאים למציאות!</item>
-        <item>תודה על תמיכתך</item>
-        <item>קח את הקרשים שלך – אתה לא עושה איתנו ל\"ג בעומר!</item>
-        <item>אחת הבחירות הטובות שלנו</item>
-        <item>קח קצת שפיות בשביל הפרנויה שלך</item>
-        <item>קרח זורם לך בוורידים</item>
-        <item>איזו חוויה מקסימה, לא?</item>
-        <item>האבולוציה היא מיתוס, נכון?</item>
-        <item>אתה מה שאתה, אל תשתנה</item>
-        <item>על מה אתה חושב?</item>
-        <item>אס זוכה קינג בוכה?</item>
-        <item>עוף על החיים שלך</item>
+        <item>Ignorance is Bliss</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>She will not say yes xD</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
+        <item>Do something nice today</item>
+        <item>Hello there its a nice day, isn\'t it?</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>R.</item>
     </string-array>
     <!-- Recents screen, close app -->
     <string name="recents_close_app">סגור יישום</string>
@@ -146,10 +145,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="dock_search_title">סרגל החיפוש של Google</string>
     <string name="dock_search_summary">הצג בקצה התחתון של מסך הבית שלך</string>
     <!-- About info -->
-    <string name="about_trebuchet_summary">Trebuchet+ הוא משגר אפליקציות בהתאמה אישית המבוסס על Launcher3 של פרויקט הקוד הפתוח של Android</string>
+    <string name="about_trebuchet_summary">HeliumX is a customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
     <string name="about_thanks_cat">תודות מיוחדות ל</string>
     <string name="about">אודות</string>
     <string name="about_summary">מידע אודות משגר האפליקציות</string>
-    <string name="about_app_version">גרסה</string>
+    <string name="about_app_version">Trebuchet+ גרסה</string>
     <string name="about_app_version_summary">1.R</string>
+    <string name="about_helium_version">HeliumX גרסה</string>
+    <string name="about_helium_version_summary">1.0</string> 
 </resources>

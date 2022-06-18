@@ -51,73 +51,72 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="quickspace_psa_title">Zobrazit náhodnou zprávu</string>
     <string name="quickspace_psa_summary">Čas od času zobrazit v Přehledu událostí nějaké pěkné vzkazy.</string>
     <string-array name="quickspace_psa_morning">
-        <item>Dobré ráno!</item>
-        <item>Dobré ráno! Je načase vstávat a cvičit!</item>
-        <item>Dneska je venku hezky!</item>
-        <item>Hezký den!</item>
-        <item>Což takhle si ještě na 5 minut zdřímnout?</item>
-        <item>Taky jedna z možností, jak se probudit.</item>
-        <item>Co takhle změnit si zvuk budíku.</item>
-        <item>Zdá se, že je krásný den, že?</item>
-        <item>Pojď na to, zlato.</item>
-        <item>Raději se podívej, jaké je venku počasí</item>
-        <item>Ještě se ti klíží víčka</item>
-        <item>Už jsi vykoukl ven?</item>
-        <item>Pojďme se s tím poprat.</item>
+        <item>Ohayo Gozaimasu!</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Dobrou noc!</item>
-        <item>Dobře se vyspěte!</item>
-        <item>Uvidíme se zítra!</item>
-        <item>Sladké sny!</item>
-        <item>Moc dlouho neponocuj</item>
-        <item>Dobrou noc, ať tě blechy štípou celou noc</item>
-        <item>Trochu se prospi</item>
-        <item>Je čas hodit si nohy nahoru</item>
-        <item>Užij si noc!</item>
-        <item>Nastal čas dobíjení baterií!</item>
-        <item>Zítřek by se mohl vyvést</item>
-        <item>Připrav se na zítřek</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Ehm... dobrou noc?</item>
-        <item>Už je trochu pozdě</item>
-        <item>Co takhle upravit svůj plán večerky</item>
-        <item>V tuto dobu jsi produktivnější?</item>
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Nevědomost je síla</item>
-        <item>Že už by bylo načase flashnout další aktualizaci?</item>
-        <item>Jsi natěšen na Android 12?</item>
-        <item>Hej hola, jak je?</item>
-        <item>Soustřeď se na své úkoly</item>
-        <item>Kolik snímků obrazovky vytvoříš?</item>
-        <item>Jsme rádi že jste si vybrali Projekt Sakura</item>
-        <item>Šiř lásku, nikoliv chaos :P</item>
-        <item>Bavte se!</item>
-        <item>Je čas na nějakou dobrou hudbu</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HLAVA</item>
-        <item>Potřebuješ Projekt Sakura Premium</item>
-        <item>Pamatuj na Lineage of the Unicorn</item>
-        <item>Užij si Vysokou výdrž baterie</item>
-        <item>Začínáme od píky</item>
-        <item>Milujeme tě 3000</item>
-        <item>Zůstaň doma, zůstaň v bezpečí</item>
-        <item>Vykonej dneska něco dobrého</item>
-        <item>Ahoj, je hezký den, že?</item>
-        <item>Jak ti dupou králíci?</item>
-        <item>Žádné iluze, vítej ve tvrdé realitě!</item>
-        <item>Děkujeme ti za podporu</item>
-        <item>Blbosti zde nemají místo – pouze dokonalost!</item>
-        <item>Jeden z nejlepších výběrů Buildbota</item>
-        <item>Trochu normálnosti pro tvou paranoiu</item>
-        <item>Zakus ledově vychlazené dezerty</item>
-        <item>Úžasný zážitek, že?</item>
-        <item>Evoluce je mýtus, že?</item>
-        <item>Jsi to, co flashuješ. Nebuď brambora</item>
-        <item>Co tě trápí?</item>
-        <item>Vítěz vítěz ....?</item>
-        <item>rm -rf \/</item>
+        <item>Ignorance is Bliss</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>She will not say yes xD</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
+        <item>Do something nice today</item>
+        <item>Hello there its a nice day, isn\'t it?</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>R.</item>
     </string-array>
     <!-- Recents screen, close app -->
     <string name="recents_close_app">Zavřít aplikaci</string>
@@ -146,10 +145,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="dock_search_title">Vyhledávací panel Google</string>
     <string name="dock_search_summary">Zobrazit v horní části Domovské obrazovky</string>
     <!-- About info -->
-    <string name="about_trebuchet_summary">Trebuchet+ je upravený spouštěč Trebuchet založený na AOSP Launcher3</string>
+    <string name="about_trebuchet_summary">HeliumX is a customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
     <string name="about_thanks_cat">Zvláštní poděkování</string>
     <string name="about">O</string>
     <string name="about_summary">Informace o spouštěči</string>
-    <string name="about_app_version">Verze</string>
+    <string name="about_app_version">Trebuchet+ Verze</string>
     <string name="about_app_version_summary">1.R</string>
+    <string name="about_app_version">HeliumX Verze</string>
+    <string name="about_helium_version_summary">1.0</string>
 </resources>

@@ -51,73 +51,72 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="quickspace_psa_title">Pokaż losową wiadomość</string>
     <string name="quickspace_psa_summary">Wyświetl fajne wiadomości w widżecie głównym.</string>
     <string-array name="quickspace_psa_morning">
-        <item>Dzień dobry!</item>
-        <item>Dzień dobry, pora na działanie!</item>
-        <item>Cóż za piękny dzień!</item>
-        <item>Miłego dnia!</item>
-        <item>A może 5-cio minutowa drzemka?</item>
-        <item>Jest to jeden ze sposobów na obudzenie.</item>
-        <item>Powinieneś zmienić dźwięk swojego alarmu.</item>
-        <item>Zapowiada się piękny dzień, nieprawdaż?</item>
-        <item>Zajmijmy się tym.</item>
-        <item>Sprawdź pogodę dla pewności</item>
-        <item>Jestem trochę śpiący</item>
-        <item>Wyjrzałeś już dzisiaj za okno?</item>
-        <item>Zróbmy to.</item>
+        <item>Ohayo Gozaimasu!</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Dobranoc!</item>
-        <item>Śpij dobrze!</item>
-        <item>Do zobaczenia jutro!</item>
-        <item>Słodkich snów!</item>
-        <item>Nie siedź za długo</item>
-        <item>Miłych snów</item>
-        <item>Wyśpij się</item>
-        <item>Czas na relax</item>
-        <item>Miłej nocy!</item>
-        <item>Czas naładować baterie!</item>
-        <item>Jutro może być świetny dzień</item>
-        <item>Przygotuj się na jutro</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Hmm... dobrej nocy?</item>
-        <item>Jest już trochę późno</item>
-        <item>Powinieneś naprawić swój zegar biologiczny</item>
-        <item>Jesteś teraz bardziej produktywny?</item>
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Niewiedza jest błogosławieństwem</item>
-        <item>Czy to czas na kolejną aktualizację?</item>
-        <item>Podekscytowany Androidem 12?</item>
-        <item>Hej, co słychać?</item>
-        <item>Skoncentruj się na swoich zadaniach</item>
-        <item>Jak dużo zrzutów ekranu robisz?</item>
-        <item>Cieszymy się, że wybrałeś Project Sakura</item>
-        <item>Szerz miłość nie havoc :P</item>
-        <item>Baw się dobrze!</item>
-        <item>Czas na dobrą muzykę</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>Potrzebujesz Projektu Sakura Premium</item>
-        <item>Ciągle mniej zabugowany niż Cyberpunk</item>
+        <item>Ignorance is Bliss</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>She will not say yes xD</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
+        <item>Remember the Lineage of the Unicorn</item>
         <item>Enjoy Xtended battery life</item>
-        <item>Zaczynając od zera</item>
-        <item>Kochamy Cię 3000</item>
-        <item>#ZostańWDomu</item>
-        <item>Zrób dziś coś fajnego</item>
-        <item>Witaj, ładny dzień, prawda?</item>
-        <item>Jak leci?</item>
-        <item>Brak iluzji, witaj w rzeczywistości!</item>
-        <item>Dziękujemy za Twoje wsparcie</item>
-        <item>Brak miejsca dla Derpów - czysta perfekcja!</item>
-        <item>Jeden z najlepszych wyborów buildbota</item>
-        <item>Ukojenie twojej paranoi</item>
-        <item>Wypróbuj lodowe desery</item>
-        <item>Ale cudowne doświadczenie, nieprawdaż?</item>
-        <item>Ewolucja jest mitem, prawda?</item>
-        <item>Jesteś tym co wgrywasz, nie bądź ziemniakiem (POSP)</item>
-        <item>Co Ci chodzi po głowie?</item>
-        <item>Meczyk wygrany, kurczak podany</item>
-        <item>rm -rf \/</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
+        <item>Do something nice today</item>
+        <item>Hello there its a nice day, isn\'t it?</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>R.</item>
     </string-array>
     <!-- Recents screen, close app -->
     <string name="recents_close_app">Zamnknij aplikację</string>
@@ -150,6 +149,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="about_thanks_cat">Specjalne podziękowania dla</string>
     <string name="about">O nas</string>
     <string name="about_summary">Informacje o launcherze</string>
-    <string name="about_app_version">Wersja</string>
+    <string name="about_app_version">Trebuchet+ Wersja</string>
     <string name="about_app_version_summary">1.R</string>
+    <string name="about_helium_version">HeliumX Wersja</string>
+    <string name="about_helium_version_summary">1.0</string>
 </resources>

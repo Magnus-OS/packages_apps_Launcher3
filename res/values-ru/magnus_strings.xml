@@ -52,72 +52,71 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="quickspace_psa_summary">Показывать иногда некоторые приятные сообщения на виджете At a Glance.</string>
     <string-array name="quickspace_psa_morning">
         <item>Ohayo Gozaimasu!</item>
-        <item>Доброе утро, время зажигать!</item>
-        <item>Вам не следует пропускать упражнения.</item>
-        <item>Хорошего дня!</item>
-        <item>Как насчет небольшого 5-минутного перерыва?</item>
-        <item>Это один из способов проснуться.</item>
-        <item>Вы должны изменить звук вашего будильника.</item>
-        <item>Похоже, это прекрасный день, не так ли?</item>
-        <item>Возьми этот хлеб.</item>
-        <item>Проверьте погоду на всякий случай, если вашему избраннику понадобится зонтик.</item>
-        <item>Ещё чувствуешь себя немного сонным</item>
-        <item>Вы уже смотрели на улицу?</item>
-        <item>Давайте сделаем это.</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Спокойной ночи!</item>
-        <item>Приятных снов!</item>
-        <item>Увидимся завтра!</item>
-        <item>Сладких снов!</item>
-        <item>Не засиживайся слишком долго</item>
-        <item>Хорошего сна</item>
-        <item>Пора спать</item>
-        <item>Время расслабиться</item>
-        <item>Наслаждайтесь ночью! Один...</item>
-        <item>Время зарядить батарею!</item>
-        <item>Завтра все будет хорошо, потому что я здесь!</item>
-        <item>Готовь свои кости к завтрашнему дню</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Эм... спокойной ночи?</item>
-        <item>Сейчас уже немного поздно</item>
-        <item>Я увидел призрак под кроватью x_x</item>
-        <item>Вы более продуктивны в это время?</item>
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Неведение - благо</item>
-        <item>Не пора ли уже прошить еще одно обновление?</item>
-        <item>Наконец-то Android 12?</item>
-        <item>О, привет, как дела?</item>
-        <item>Сосредоточьтесь на своих задачах</item>
-        <item>Сколько скриншотов вы делаете?</item>
-        <item>Она не скажет \"да\" xD</item>
-        <item>Распространяйте любовь, а не хаос</item>
-        <item>Веселитесь!</item>
-        <item>Время для хорошей музыки</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>Вам нужен премиум Project Sakura</item>
-        <item>Помни родословную Lineage</item>
-        <item>Автономность как на Xtended</item>
-        <item>Начиная с нуля</item>
-        <item>Используете проект Сакура? Черт возьми, ты выше всех</item>
-        <item>Оставайтесь домой и будьте в безопасности</item>
-        <item>Сделайте сегодня что-то приятное</item>
-        <item>Здравствуйте, там хороший день, не так ли?</item>
-        <item>Как все идёт?</item>
-        <item>Никаких иллюзий, это реальность!</item>
-        <item>Благодарим вас за поддержку.</item>
-        <item>Никакого фестиваля для Derps - только совершенство!</item>
-        <item>Один из лучших по выбору билдботов XD</item>
-        <item>Безопасность для вашей паранойи</item>
-        <item>Попробуйте холодные десерты</item>
-        <item>Какой прекрасный опыт, не так ли?</item>
-        <item>Эволюция является мифом, правда?</item>
-        <item>Ты - это то что ты прошиваешь, не будь овощем</item>
-        <item>О чём думаете?</item>
-        <item>Опять играешь в эту дурацкую игру?</item>
-        <item>rm -rf \/</item>
+        <item>Ignorance is Bliss</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>She will not say yes xD</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
+        <item>Do something nice today</item>
+        <item>Hello there its a nice day, isn\'t it?</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>R.</item>
     </string-array>
     <!-- Recents screen, close app -->
     <string name="recents_close_app">Закрыть приложение</string>
@@ -146,10 +145,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="dock_search_title">Найти в Google</string>
     <string name="dock_search_summary">Показывать в нижней части домашнего экрана</string>
     <!-- About info -->
-    <string name="about_trebuchet_summary">Trebuchet+ это настраиваемый лаунчер Trebuchet, основанный на лаунчере Launcher3</string>
+    <string name="about_trebuchet_summary">HeliumX is a customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
     <string name="about_thanks_cat">Особая благодарность</string>
     <string name="about">О приложении</string>
     <string name="about_summary">Информация о лаунчере</string>
-    <string name="about_app_version">Версия</string>
+    <string name="about_app_version">Trebuchet+ Версия</string>
     <string name="about_app_version_summary">1.R</string>
+    <string name="about_helium_version">HeliumX Version</string>
+    <string name="about_helium_version_summary">1.0</string>
 </resources>

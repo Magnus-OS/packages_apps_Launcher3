@@ -51,73 +51,72 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="quickspace_psa_title">显示一条随机消息</string>
     <string name="quickspace_psa_summary">在主屏幕中显示一些亲切的问候</string>
     <string-array name="quickspace_psa_morning">
-        <item>猛男要说早上好～！</item>
-        <item>早啊，今天也嗨起来吧！</item>
-        <item>天晴了，雨停了。。。。</item>
-        <item>祝您生活愉快！</item>
-        <item>比一比，谁能在5分钟内睡着？</item>
-        <item>这样醒来也不错。</item>
-        <item>换一个老婆试试？</item>
-        <item>今天还不错，不是吗？</item>
-        <item>打工人，打工魂。。</item>
-        <item>看看天气预报？</item>
-        <item>唔……还有点困？</item>
-        <item>眺望一下外面的风景吧</item>
-        <item>芭芭拉，闪耀登场~</item>
+        <item>Ohayo Gozaimasu!</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>晚安~今晚也要加油呀!</item>
-        <item>辛苦了，请好好休息吧。</item>
-        <item>尝一尝我做的辣味饮料吧</item>
-        <item>汇聚大家的愿望，让大家感到幸福</item>
-        <item>不要睡得太晚了哦</item>
-        <item>睡个好觉</item>
-        <item>不休息一会？</item>
-        <item>是大家脸上的笑容，一直在支持我。</item>
-        <item>今晚～～诶嘿</item>
-        <item>别忘了给我充电哦</item>
-        <item>明天是美好的一天</item>
-        <item>为明天做好准备</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>托克，再给哥哥十秒吧。</item>
-        <item>很晚了呢!!</item>
-        <item>不调整一下作息时间表吗？</item>
-        <item>你现在的工作效率更高吗？</item>
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>天真是种幸福</item>
-        <item>是时候更新新系统了吗？</item>
-        <item>对 Android 12 很兴奋？</item>
-        <item>你还好吗？我很好。</item>
-        <item>别忘了要做的事</item>
-        <item>你截过多少图片呢</item>
-        <item>像Project Sakura一样出色</item>
-        <item>传播爱而不是havoc：P</item>
-        <item>祝您愉快！</item>
-        <item>是时候听一些好音乐了</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>您需要Project Sakura高级版</item>
-        <item>记住Unicorn的Lineage</item>
-        <item>享受Xtended那样的电量</item>
-        <item>从零开始</item>
-        <item>我们爱你 3000 遍</item>
-        <item>待在家，更安全</item>
-        <item>日行一善</item>
-        <item>你好，今天天气不错，不是吗？</item>
-        <item>最近怎么样？</item>
-        <item>这里没有幻想，欢迎回到现实！</item>
-        <item>感谢您的支持</item>
-        <item>沒有给白痴庆祝的节日——只有完美！</item>
-        <item>Buildbot 的最佳选择之一</item>
-        <item>为您的偏执增添理智</item>
-        <item>尝尝冰镇甜点</item>
-        <item>希望你有美妙的体验</item>
-        <item>进化就像神话，是吧？</item>
-        <item>走自己的路，让别人说去吧</item>
-        <item>你有什么想法？</item>
-        <item>德丽莎世界第一可爱！！</item>
-        <item>rm -rf \/</item>
+        <item>Ignorance is Bliss</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>She will not say yes xD</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
+        <item>Do something nice today</item>
+        <item>Hello there its a nice day, isn\'t it?</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>R.</item>
     </string-array>
     <!-- Recents screen, close app -->
     <string name="recents_close_app">关闭应用程序</string>

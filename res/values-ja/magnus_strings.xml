@@ -51,73 +51,72 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="quickspace_psa_title">ランダムメッセージを表示</string>
     <string name="quickspace_psa_summary">At A Glance に素敵なメッセージを表示する</string>
     <string-array name="quickspace_psa_morning">
-        <item>おはようございます!</item>
-        <item>おはようございます、さあ始めましょう!</item>
-        <item>運動をさぼってはいけません。</item>
-        <item>良い一日を!</item>
-        <item>わずか5分間の昼寝はどうでしたか?</item>
-        <item>目を覚ます一つの方法です。</item>
-        <item>目覚まし音を変えるべきです。</item>
-        <item>今日は美しい日だと思いませんか?</item>
-        <item>今日も一日働こう!</item>
-        <item>ときめきが雨傘を求める場合に備えて天気を確認しましょう。</item>
-        <item>少し眠く感じます</item>
-        <item>もう窓の外を見ましたか?</item>
-        <item>早く終わらせよう。</item>
+        <item>Ohayo Gozaimasu!</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>おやすみなさい!</item>
-        <item>よい眠りを!</item>
-        <item>また明日!</item>
-        <item>良い夢を!</item>
-        <item>夜ふかしは良くありません</item>
-        <item>よい眠りを</item>
-        <item>睡眠をとりましょう</item>
-        <item>リラックスする時間です</item>
-        <item>夜をお楽しみ下さい! 一人でね...</item>
-        <item>バッテリーを充電する時間です!</item>
-        <item>私がいるから明日はずっといい日でしょう!</item>
-        <item>明日への覚悟を決めましょう</item>
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>あの... お休みですか?</item>
-        <item>ちょっともう遅い時間ですね</item>
-        <item>ベッドの下に幽霊を見ました x_x</item>
-        <item>今回はもっと生産的ですか?</item>
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>無知は至福なことです</item>
-        <item>既に別のアップデートをフラッシュする時間ですか?</item>
-        <item>Android 12 に夢中ですか?</item>
-        <item>やあ、何かありましたか?</item>
-        <item>仕事に集中しましょう</item>
-        <item>スクリーンショットは何枚撮りますか?</item>
-        <item>彼女ははいと答えないでしょうね XD</item>
-        <item>Havoc ではない愛の広がり :P</item>
-        <item>お楽しみください!</item>
-        <item>良い音楽を聴く時間です</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>あなたには Project Sakura Premium が必要です</item>
-        <item>Unicorn の Lineage を覚えておいて下さい</item>
-        <item>Xtended なバッテリー寿命をお楽しみ下さい</item>
-        <item>Ground Zero から始めます</item>
-        <item>Project Sakura を使用中ですか? うーんあなたは素晴らしい。</item>
-        <item>ステイホーム、ステイセーフ。</item>
-        <item>今日は素敵なことをしましょう</item>
-        <item>こんにちは、いい天気ですね。</item>
-        <item>調子はどうですか?</item>
-        <item>幻想ではありません。リアルへようこそ!</item>
-        <item>ご協力ありがとうございます</item>
-        <item>Derp のための祭りではありません - 唯一の完璧さ!</item>
-        <item>ビルドボットの最高の選択の1つです</item>
-        <item>パラノイアの正気</item>
-        <item>Ice Cold なデザートをお試しください</item>
-        <item>なんて素敵な経験でしょう？</item>
-        <item>Evolution は神話ですよね?</item>
-        <item>何をフラッシュするかですが、Potato はやめましょう。</item>
-        <item>今の気持ちは?</item>
-        <item>またそのしょうもないゲームをしているんですか?</item>
-        <item>rm -rf \/</item>
+        <item>Ignorance is Bliss</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>She will not say yes xD</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Did you know? Magnus was first made on mobile for mobile</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Cheer up!</item>
+        <item>Do something nice today</item>
+        <item>Hello there its a nice day, isn\'t it?</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>R.</item>
     </string-array>
     <!-- Recents screen, close app -->
     <string name="recents_close_app">アプリを閉じる</string>
@@ -146,10 +145,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="dock_search_title">Google 検索バー</string>
     <string name="dock_search_summary">ホーム画面の下部に表示する</string>
     <!-- About info -->
-    <string name="about_trebuchet_summary">Trebuchet+ は AOSP の Launcher3 に基づくカスタマイズされた Trebuchet ランチャーです</string>
+    <string name="about_trebuchet_summary">HeliumX is a customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
     <string name="about_thanks_cat">スペシャルサンクス</string>
     <string name="about">詳細</string>
     <string name="about_summary">ランチャーに関する情報</string>
-    <string name="about_app_version">バージョン</string>
+    <string name="about_app_version">Trebuchet+ バージョン</string>
     <string name="about_app_version_summary">1.R</string>
+    <string name="about_helium_version">HeliumX バージョン</string>
+    <string name="about_helium_version_summary">1.0</string>
 </resources>
