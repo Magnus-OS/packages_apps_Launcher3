@@ -151,6 +151,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="about_summary">Informace o spouštěči</string>
     <string name="about_app_version">Trebuchet+ Verze</string>
     <string name="about_app_version_summary">1.R</string>
-    <string name="about_app_version">HeliumX Verze</string>
+    <string name="about_helium_version">HeliumX Verze</string>
     <string name="about_helium_version_summary">1.0</string>
 </resources>
