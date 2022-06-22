@@ -5,10 +5,8 @@
             android:key="about_trebuchet"
             android:title="@string/about_trebuchet_title"
             android:summary="@string/about_trebuchet_summary"
+            android:selectable="false"
             android:persistent="false" >
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://github.com/Magnus-OS/packages_apps_Launcher3" />
         </Preference>
 
         <Preference
